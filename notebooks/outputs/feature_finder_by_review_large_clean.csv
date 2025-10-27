@@ -1,0 +1,201 @@
+review_id,n_chunks,features_union,latency_ms_total,num_ok,num_not_ok
+ELECTRONICS_000032,1,,2871,0,1
+ELECTRONICS_007492,1,,3227,0,1
+ELECTRONICS_009277,1,,2967,0,1
+ELECTRONICS_017183,1,,3547,0,1
+ELECTRONICS_022152,1,,3615,0,1
+ELECTRONICS_027421,1,,3277,0,1
+ELECTRONICS_031596,1,,3678,0,1
+ELECTRONICS_035468,1,,2876,0,1
+ELECTRONICS_035801,1,,2518,0,1
+ELECTRONICS_038026,1,,2660,0,1
+ELECTRONICS_039966,1,,2468,0,1
+ELECTRONICS_041104,1,,2975,0,1
+ELECTRONICS_042844,1,,2704,0,1
+ELECTRONICS_073140,1,,2661,0,1
+ELECTRONICS_082245,2,,5592,0,2
+ELECTRONICS_083442,2,,7192,0,2
+ELECTRONICS_093493,1,,2502,0,1
+ELECTRONICS_1013181,1,,2751,0,1
+ELECTRONICS_102708,1,,2452,0,1
+ELECTRONICS_1027901,2,,4601,1,1
+ELECTRONICS_1031871,1,,2969,0,1
+ELECTRONICS_1034466,1,"added weight, case design, ease of use for children, flip cover functionality, grip requirement, sturdiness",3982,1,0
+ELECTRONICS_1036715,1,,2659,0,1
+ELECTRONICS_104447,1,,2445,0,1
+ELECTRONICS_105242,1,,5319,0,1
+ELECTRONICS_1060046,1,,2678,0,1
+ELECTRONICS_1092729,1,,2818,0,1
+ELECTRONICS_1094584,1,,3783,0,1
+ELECTRONICS_109792,2,"battery life, brand origin, cell capacity, cell quality, performance, self discharge",5955,1,1
+ELECTRONICS_1113310,2,,8592,0,2
+ELECTRONICS_1119682,2,,7767,0,2
+ELECTRONICS_1130571,1,,2761,0,1
+ELECTRONICS_1140330,1,,2457,0,1
+ELECTRONICS_1147899,1,,2392,0,1
+ELECTRONICS_1153431,1,,2871,0,1
+ELECTRONICS_1170581,1,"usb adapter compatibility, usb hub functionality",2140,1,0
+ELECTRONICS_1176513,1,,3466,0,1
+ELECTRONICS_1179577,1,,4710,0,1
+ELECTRONICS_1194646,1,,2551,0,1
+ELECTRONICS_1198915,3,,10807,0,3
+ELECTRONICS_1209946,1,,3082,0,1
+ELECTRONICS_1210193,1,,2647,0,1
+ELECTRONICS_1230795,4,,14351,0,4
+ELECTRONICS_1241284,1,,2465,0,1
+ELECTRONICS_1242830,2,,5124,0,2
+ELECTRONICS_1254042,1,,2534,0,1
+ELECTRONICS_1256430,3,"admin password, alarm scheduling, compatibility, motion detection, recording scheduling, setup process, ssid hiding, video review",12524,1,2
+ELECTRONICS_1258333,1,,2120,0,1
+ELECTRONICS_1271266,2,,5513,0,2
+ELECTRONICS_1284511,2,,7422,0,2
+ELECTRONICS_1292198,1,,1909,0,1
+ELECTRONICS_1301953,2,,6649,0,2
+ELECTRONICS_1312210,1,,2049,0,1
+ELECTRONICS_1320461,1,,2146,0,1
+ELECTRONICS_1321782,1,,3781,0,1
+ELECTRONICS_1323979,1,,2730,0,1
+ELECTRONICS_1332905,3,,10336,0,3
+ELECTRONICS_1336955,1,,2965,0,1
+ELECTRONICS_1338143,1,,4714,0,1
+ELECTRONICS_134799,1,,2457,0,1
+ELECTRONICS_1355336,2,"battery life, delivery speed, fan noise, fit, packaging, price, screen",6086,1,1
+ELECTRONICS_1364136,3,,10128,0,3
+ELECTRONICS_1369050,1,,2848,0,1
+ELECTRONICS_1387884,1,,4295,0,1
+ELECTRONICS_1390698,1,,3067,0,1
+ELECTRONICS_1401811,1,,2967,0,1
+ELECTRONICS_1407191,1,,2448,0,1
+ELECTRONICS_1431644,1,,3749,0,1
+ELECTRONICS_143996,1,,4706,0,1
+ELECTRONICS_1440351,1,,3274,0,1
+ELECTRONICS_1444619,3,,12793,0,3
+ELECTRONICS_1445129,1,,3809,0,1
+ELECTRONICS_1461730,2,,5637,0,2
+ELECTRONICS_1465966,1,,3949,0,1
+ELECTRONICS_1466042,5,"battery life, built-in ethernet/vga ports, integrated optical drive, software",18926,1,4
+ELECTRONICS_1488086,1,,3173,0,1
+ELECTRONICS_1495684,2,,6852,0,2
+ELECTRONICS_1498034,1,,2575,0,1
+ELECTRONICS_150708,1,,2923,0,1
+ELECTRONICS_1509607,2,"battery life, carrying case, design, noise isolation, sound quality",6044,1,1
+ELECTRONICS_1509729,1,,3065,0,1
+ELECTRONICS_1533670,1,,4196,0,1
+ELECTRONICS_1545370,1,,2704,0,1
+ELECTRONICS_1563676,1,,2503,0,1
+ELECTRONICS_1568442,1,,3157,0,1
+ELECTRONICS_1571036,1,,2963,0,1
+ELECTRONICS_160036,1,,2128,0,1
+ELECTRONICS_1606040,1,,3682,0,1
+ELECTRONICS_1608077,1,,2520,0,1
+ELECTRONICS_1608451,1,,3169,0,1
+ELECTRONICS_1614958,1,,5071,0,1
+ELECTRONICS_1615206,1,,2145,0,1
+ELECTRONICS_1616261,3,"battery warning, bud size, fit, power on/off alerts",9614,1,2
+ELECTRONICS_1631011,1,,2836,0,1
+ELECTRONICS_1644382,1,,4388,0,1
+ELECTRONICS_1655703,1,"airflow, color, lights, noise",2795,1,0
+ELECTRONICS_1661613,2,"backlighting, backlit, case, hard case keyboard, hardcover, kensington, keyboard setup, keyboard spacing, pairing process, portability, set-up instructions, turning off and on",7471,2,0
+ELECTRONICS_1669484,1,,2499,0,1
+ELECTRONICS_1671899,4,"battery life, case design, coverage for ipad, function keys, functionality, keyboard, keyboard layout, layout, lightweight design, micro usb cable, packaging, premium look, protection, protective lip, reliability, stroke, swivel mechanism, upper shell, weight",15165,3,1
+ELECTRONICS_1679891,2,,7081,0,2
+ELECTRONICS_172635,1,,3278,0,1
+ELECTRONICS_179983,1,,2966,0,1
+ELECTRONICS_208748,1,,3837,0,1
+ELECTRONICS_231610,1,,2546,0,1
+ELECTRONICS_241468,1,,3519,0,1
+ELECTRONICS_248322,1,"bass, sound quality",2122,1,0
+ELECTRONICS_257074,1,,2223,0,1
+ELECTRONICS_257489,4,"cord plug, dash mount adhesive, friction mount, mount release, portability, price, windshield mount",11030,2,2
+ELECTRONICS_259229,1,,3784,0,1
+ELECTRONICS_264001,1,,2565,0,1
+ELECTRONICS_264842,11,"3rd party apps, accessories, application availability, audio formats support, battery life, carry bag, crossword application, crossword puzzle applications, current supply, display quality, display size, ebook reader program, font readability, font sizing flexibility, garnet vm, java runtime module, java support, modular mobile broadband capability, n8x0 family of device, nokia internet tablets, operating system compatibility, os compatibility, palm os emulator, pixel density, portability, professional grade applications, screen size, storage capacity, system performance, typing convenience, usb evdo or hsdpa modem, usb port, video streaming support, web-based applications, wifi internet connection, wifi range and sensitivity",44909,7,4
+ELECTRONICS_277494,1,,2464,0,1
+ELECTRONICS_281075,1,,3178,0,1
+ELECTRONICS_282068,1,,2963,0,1
+ELECTRONICS_285742,3,"customer service, delivery speed, end-plate durability, noise canceling, noise isolation, price",11974,1,2
+ELECTRONICS_293815,1,,3986,0,1
+ELECTRONICS_301231,2,,5019,0,2
+ELECTRONICS_313678,1,,3780,0,1
+ELECTRONICS_322747,1,,2894,0,1
+ELECTRONICS_326126,1,,2330,0,1
+ELECTRONICS_330919,1,,3383,0,1
+ELECTRONICS_331089,1,,3778,0,1
+ELECTRONICS_338150,1,,2551,0,1
+ELECTRONICS_345293,2,"audio quality, picture quality",3474,2,0
+ELECTRONICS_351352,1,,3557,0,1
+ELECTRONICS_365965,1,,3979,0,1
+ELECTRONICS_369397,3,,8175,0,3
+ELECTRONICS_376406,7,"cd with drivers and software, cover page addition, document review, fax capture driver, linux readme file, modem communication, modem installation, multilingual manual, os detection, page addition limitation, page merging, phone tools documentation, price value, print to fax driver, printed manual, software functionality, software included",32731,2,5
+ELECTRONICS_391311,2,"ear pain, noise cancelation, wearing comfort",5732,1,1
+ELECTRONICS_396074,1,,3081,0,1
+ELECTRONICS_399083,1,,2884,0,1
+ELECTRONICS_405550,11,"battery life, charging, charging devices, charging efficiency, charging multiple items simultaneously, charging source, compatibility, design, operation, performance, portability, power source, price, usb ac adaptor compatibility, usb ports",37340,5,6
+ELECTRONICS_412290,1,,2655,0,1
+ELECTRONICS_422340,1,,2963,0,1
+ELECTRONICS_434700,1,,2446,0,1
+ELECTRONICS_443155,1,,2963,0,1
+ELECTRONICS_443246,1,,2566,0,1
+ELECTRONICS_450844,1,,4183,0,1
+ELECTRONICS_455227,3,,13679,0,3
+ELECTRONICS_459323,1,,2869,0,1
+ELECTRONICS_487262,3,,12199,0,3
+ELECTRONICS_494106,1,,2455,0,1
+ELECTRONICS_500482,1,,4298,0,1
+ELECTRONICS_503484,1,,2857,0,1
+ELECTRONICS_513050,1,,3685,0,1
+ELECTRONICS_517567,2,,7577,0,2
+ELECTRONICS_530397,2,"cable length, price",4505,1,1
+ELECTRONICS_531727,1,,2915,0,1
+ELECTRONICS_536622,1,,3221,0,1
+ELECTRONICS_574174,1,,3386,0,1
+ELECTRONICS_595439,1,"cpu cooling, fan, heat sink, installation, price",3174,1,0
+ELECTRONICS_596394,1,,2543,0,1
+ELECTRONICS_605010,1,,2611,0,1
+ELECTRONICS_610225,1,,2664,0,1
+ELECTRONICS_615466,2,,5825,0,2
+ELECTRONICS_616310,1,,2563,0,1
+ELECTRONICS_617339,1,,2976,0,1
+ELECTRONICS_625424,1,,2558,0,1
+ELECTRONICS_637634,1,,4172,0,1
+ELECTRONICS_643547,1,,3489,0,1
+ELECTRONICS_652255,1,,2454,0,1
+ELECTRONICS_652497,1,,2925,0,1
+ELECTRONICS_656466,1,,4385,0,1
+ELECTRONICS_658974,4,"adjustability, bass boost, battery life, buttons, comfort, ear coverage, portability, sound consistency, sound quality, surround sound, transmitter battery, transmitter cables, transmitter options, transmitter rechargeable station, volume control, weight",19099,2,2
+ELECTRONICS_667924,1,,2551,0,1
+ELECTRONICS_701131,1,,2312,0,1
+ELECTRONICS_701499,1,,3378,0,1
+ELECTRONICS_715859,1,,3750,0,1
+ELECTRONICS_716537,3,"key remap, logitech control center version, mac support, mouse button mappings, operating system version, peripheral recognition, settings retention, software installation, usb unity",8895,2,1
+ELECTRONICS_723842,1,,2659,0,1
+ELECTRONICS_727184,1,,2645,0,1
+ELECTRONICS_729711,1,,2693,0,1
+ELECTRONICS_739734,1,"battery life, mouse power saving, mouse range, mouse recognition, reconnect function, sleep function, switch design",4084,1,0
+ELECTRONICS_747696,1,,2557,0,1
+ELECTRONICS_751534,1,,2770,0,1
+ELECTRONICS_751592,1,,2559,0,1
+ELECTRONICS_769418,1,,3150,0,1
+ELECTRONICS_792958,1,"carrying case, cord storage, durability, external battery charger, hard case, internal compartment, slim design, usb cable, volume",4845,1,0
+ELECTRONICS_797333,1,,2956,0,1
+ELECTRONICS_806567,1,,4505,0,1
+ELECTRONICS_813976,3,,9859,0,3
+ELECTRONICS_817721,1,,2482,0,1
+ELECTRONICS_818158,2,"bass, battery power, connection, design, equalizer, price, sound quality",6542,1,1
+ELECTRONICS_823361,1,,4013,0,1
+ELECTRONICS_835794,1,,3696,0,1
+ELECTRONICS_841527,1,,2578,0,1
+ELECTRONICS_843481,1,,2855,0,1
+ELECTRONICS_846838,1,,3241,0,1
+ELECTRONICS_848379,1,,4037,0,1
+ELECTRONICS_854012,1,,3196,0,1
+ELECTRONICS_859071,1,,3378,0,1
+ELECTRONICS_871024,2,,6146,0,2
+ELECTRONICS_872131,1,,3277,0,1
+ELECTRONICS_883153,1,,2966,0,1
+ELECTRONICS_891213,1,,3882,0,1
+ELECTRONICS_903364,1,"camera usage, default password entry, external ip access, port forwarding, wireless router setup",3383,1,0
+ELECTRONICS_914854,1,,2536,0,1
+ELECTRONICS_977828,1,,4081,0,1
+ELECTRONICS_981957,2,,6799,0,2
+ELECTRONICS_982246,1,,3886,0,1

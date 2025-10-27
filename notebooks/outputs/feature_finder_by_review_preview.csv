@@ -1,0 +1,13 @@
+review_id,n_chunks,features_unique,latency_ms_total,status_ok,status_validation_failed,status_other
+R1,1,"screen, battery, delivery",3486,1,0,0
+R10,1,"true to size, durable, multiple washes, color fades",9724,1,0,0
+R11,1,"shoes, weight, traction, packaging",3681,1,0,0
+R12,1,,19456,0,1,0
+R2,1,"battery, charges, speakers",4211,1,0,0
+R3,1,"display, customer support",13486,1,0,0
+R4,1,,20481,0,1,0
+R5,1,"storyline, kindle formatting",9735,1,0,0
+R6,1,"character development, download, price",9614,1,0,0
+R7,1,"formatting, illustrations",6862,1,0,0
+R8,1,delivery,2567,1,0,0
+R9,1,"fit, fabric, stitching",3280,1,0,0

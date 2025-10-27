@@ -1,0 +1,21 @@
+# venv / local python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# secrets
+.env
+
+# big raw data
+raw/
+data/raw/
+*.gz
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/editor cruft
+.DS_Store
+*.swp
+Thumbs.db

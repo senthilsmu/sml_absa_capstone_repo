@@ -1,0 +1,9 @@
+pandas
+numpy 
+tqdm 
+scikit-learn 
+nltk 
+rapidfuzz 
+pydantic 
+python-dotenv 
+pyyaml

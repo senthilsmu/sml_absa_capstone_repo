@@ -1,0 +1,130 @@
+review_id,aspect,score
+ELECTRONICS_1034466,added weight,-1.0
+ELECTRONICS_1034466,case design,0.0
+ELECTRONICS_1034466,ease of use for children,1.0
+ELECTRONICS_1034466,flip cover functionality,-1.0
+ELECTRONICS_1034466,grip requirement,1.0
+ELECTRONICS_1034466,sturdiness,1.0
+ELECTRONICS_109792,battery life,-1.0
+ELECTRONICS_109792,brand origin,0.0
+ELECTRONICS_109792,cell capacity,0.0
+ELECTRONICS_109792,cell quality,-1.0
+ELECTRONICS_109792,performance,0.0
+ELECTRONICS_109792,self discharge,-1.0
+ELECTRONICS_1170581,usb adapter compatibility,-1.0
+ELECTRONICS_1170581,usb hub functionality,0.0
+ELECTRONICS_1355336,battery life,-1.0
+ELECTRONICS_1355336,delivery speed,0.0
+ELECTRONICS_1355336,fan noise,0.0
+ELECTRONICS_1355336,fit,0.0
+ELECTRONICS_1355336,packaging,0.0
+ELECTRONICS_1355336,price,-1.0
+ELECTRONICS_1355336,screen,0.0
+ELECTRONICS_1466042,battery life,-1.0
+ELECTRONICS_1466042,built-in ethernet/vga ports,-1.0
+ELECTRONICS_1466042,integrated optical drive,0.0
+ELECTRONICS_1466042,software,-1.0
+ELECTRONICS_1509607,battery life,0.0
+ELECTRONICS_1509607,carrying case,1.0
+ELECTRONICS_1509607,design,1.0
+ELECTRONICS_1509607,noise isolation,1.0
+ELECTRONICS_1509607,sound quality,0.0
+ELECTRONICS_1616261,battery warning,-1.0
+ELECTRONICS_1616261,bud size,0.0
+ELECTRONICS_1616261,fit,0.0
+ELECTRONICS_1616261,power on/off alerts,1.0
+ELECTRONICS_1655703,airflow,-0.5
+ELECTRONICS_1655703,color,1.0
+ELECTRONICS_1655703,lights,1.0
+ELECTRONICS_1655703,noise,-0.5
+ELECTRONICS_1661613,backlighting,1.0
+ELECTRONICS_1661613,backlit,0.0
+ELECTRONICS_1661613,case,0.0
+ELECTRONICS_1661613,hard case keyboard,1.0
+ELECTRONICS_1661613,hardcover,1.0
+ELECTRONICS_1661613,kensington,0.0
+ELECTRONICS_1661613,keyboard setup,0.0
+ELECTRONICS_1661613,keyboard spacing,1.0
+ELECTRONICS_1661613,pairing process,1.0
+ELECTRONICS_1661613,portability,1.0
+ELECTRONICS_1661613,set-up instructions,1.0
+ELECTRONICS_1661613,turning off and on,0.0
+ELECTRONICS_257489,cord plug,-1.0
+ELECTRONICS_257489,dash mount adhesive,-1.0
+ELECTRONICS_257489,friction mount,1.0
+ELECTRONICS_257489,mount release,1.0
+ELECTRONICS_257489,portability,1.0
+ELECTRONICS_257489,price,1.0
+ELECTRONICS_257489,windshield mount,-1.0
+ELECTRONICS_345293,audio quality,-1.0
+ELECTRONICS_345293,picture quality,0.0
+ELECTRONICS_391311,ear pain,-1.0
+ELECTRONICS_391311,noise cancelation,0.0
+ELECTRONICS_391311,wearing comfort,-1.0
+ELECTRONICS_405550,battery life,-1.0
+ELECTRONICS_405550,charging,1.0
+ELECTRONICS_405550,charging devices,1.0
+ELECTRONICS_405550,charging efficiency,1.0
+ELECTRONICS_405550,charging multiple items simultaneously,0.0
+ELECTRONICS_405550,charging source,1.0
+ELECTRONICS_405550,compatibility,1.0
+ELECTRONICS_405550,design,1.0
+ELECTRONICS_405550,operation,1.0
+ELECTRONICS_405550,performance,1.0
+ELECTRONICS_405550,portability,1.0
+ELECTRONICS_405550,power source,1.0
+ELECTRONICS_405550,usb ac adaptor compatibility,1.0
+ELECTRONICS_405550,usb ports,1.0
+ELECTRONICS_530397,cable length,-1.0
+ELECTRONICS_530397,price,0.0
+ELECTRONICS_595439,cpu cooling,1.0
+ELECTRONICS_595439,fan,0.0
+ELECTRONICS_595439,heat sink,1.0
+ELECTRONICS_595439,installation,-1.0
+ELECTRONICS_595439,price,1.0
+ELECTRONICS_658974,adjustability,0.8
+ELECTRONICS_658974,bass boost,0.95
+ELECTRONICS_658974,battery life,-0.5
+ELECTRONICS_658974,buttons,0.9
+ELECTRONICS_658974,comfort,0.95
+ELECTRONICS_658974,ear coverage,0.95
+ELECTRONICS_658974,portability,0.6
+ELECTRONICS_658974,sound consistency,0.85
+ELECTRONICS_658974,sound quality,1.0
+ELECTRONICS_658974,surround sound,0.85
+ELECTRONICS_658974,transmitter battery,-0.5
+ELECTRONICS_658974,transmitter cables,0.8
+ELECTRONICS_658974,transmitter options,0.9
+ELECTRONICS_658974,transmitter rechargeable station,0.9
+ELECTRONICS_658974,volume control,0.9
+ELECTRONICS_658974,weight,-0.3
+ELECTRONICS_716537,key remap,-1.0
+ELECTRONICS_716537,logitech control center version,-1.0
+ELECTRONICS_716537,mac support,-1.0
+ELECTRONICS_716537,mouse button mappings,-1.0
+ELECTRONICS_716537,operating system version,-1.0
+ELECTRONICS_716537,peripheral recognition,-1.0
+ELECTRONICS_716537,settings retention,-1.0
+ELECTRONICS_716537,software installation,-1.0
+ELECTRONICS_716537,usb unity,-1.0
+ELECTRONICS_792958,carrying case,0.5
+ELECTRONICS_792958,cord storage,0.75
+ELECTRONICS_792958,durability,0.8
+ELECTRONICS_792958,external battery charger,0.6
+ELECTRONICS_792958,hard case,0.9
+ELECTRONICS_792958,internal compartment,0.85
+ELECTRONICS_792958,slim design,0.7
+ELECTRONICS_792958,usb cable,0.6
+ELECTRONICS_792958,volume,0.4
+ELECTRONICS_818158,bass,-1.0
+ELECTRONICS_818158,battery power,1.0
+ELECTRONICS_818158,connection,1.0
+ELECTRONICS_818158,design,1.0
+ELECTRONICS_818158,equalizer,0.0
+ELECTRONICS_818158,price,1.0
+ELECTRONICS_818158,sound quality,1.0
+ELECTRONICS_903364,camera usage,0.0
+ELECTRONICS_903364,default password entry,1.0
+ELECTRONICS_903364,external ip access,0.0
+ELECTRONICS_903364,port forwarding,0.0
+ELECTRONICS_903364,wireless router setup,0.0
